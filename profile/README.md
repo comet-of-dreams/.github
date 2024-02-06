@@ -1,4 +1,11 @@
-## Hi there 👋
+# About
+Comet of Dreams is an Instrumental Rock group from the Greater Seattle Area.
+
+The main songwriter and producer is Robert Godlewski.
+
+Currently we are in the process of developing the website.
+
+If you would like to get a hold of us please message via [email](mailto:cometofdreamsband@gmail.com).
 
 <!--
 
